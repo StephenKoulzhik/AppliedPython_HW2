@@ -33,3 +33,5 @@
 
 # Env
 .env
+
+/__pycache__
